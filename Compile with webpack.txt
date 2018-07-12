@@ -1,0 +1,5 @@
+> npm i
+> npm i webpack@1.13.2 -g
+> webpack script-1.js bundle.js
+
+Inside index.html you'll add a script tag and import bundle.js file webpack will create
