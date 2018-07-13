@@ -1,3 +1,1 @@
-module.exports = () => {
-    console.log("I'm getting funky")
-}
+module.exports = ["Hamburger", "Cheesburger", "Chickenburger", "Hotdog", "Pizza"];

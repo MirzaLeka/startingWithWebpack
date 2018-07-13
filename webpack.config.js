@@ -8,7 +8,9 @@ module.exports = {
     
      output: {
           path: 'Resources/dist',
-          filename: 'bundle.js'
+          filename: 'bundle.js',
+          libraryTarget: 'var',
+          library: 'ui'
         },
     
      module: {
